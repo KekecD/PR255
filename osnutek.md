@@ -1,6 +1,6 @@
 ANALIZA BREZPOSELNOSTI IN PROSTIH DELOVNIH MEST V SLOVENIJI
 
-Univerza v Ljubljani
+Univerza v Ljubljani \n
 Fakulteta za računalništvo in informatiko
 Študenti:
 -Žan Luka Hojnik, 63220100
