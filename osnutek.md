@@ -1,4 +1,4 @@
-<bold>ANALIZA BREZPOSELNOSTI IN PROSTIH DELOVNIH MEST V SLOVENIJI </bold>
+**ANALIZA BREZPOSELNOSTI IN PROSTIH DELOVNIH MEST V SLOVENIJI**
 
 Univerza v Ljubljani <br>
 Fakulteta za računalništvo in informatiko <br>
@@ -9,11 +9,11 @@ Fakulteta za računalništvo in informatiko <br>
 -Aljaž Pogačnik, 63210256
 -Lej Edvard Košir, 63230155
 
-Opis problema<br>
+**Opis problema** <br>
 V naši analizi, bi radi podrobneje pogledali stanje brezposelnosti v Sloveniji in odvisnost le te od prostih delovnih mest. <br>
 Analizirali bi tudi različna področja, katera nudijo največ prostih delovnih mest.<br>
 
-Glavne točke/vprašanja:<br>
+**Glavne točke/vprašanja:** <br>
 Pri naši analizi so bila najbolj zanimiva naslednja vprašanja:<br>
     •  Koliko ljudi so brezposelni v Sloveniji?<br>
     •  Ali obstaja razlika med brezaposlenimi moškega ali ženskega spola ? <br>
