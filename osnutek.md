@@ -3,11 +3,11 @@
 Univerza v Ljubljani <br>
 Fakulteta za računalništvo in informatiko <br>
 Študenti: <br>
--Žan Luka Hojnik, 63220100 <br>
--Žan Vincent Božič, 63220028 <br>
--Andraž Jug, 63230131 <br>
--Aljaž Pogačnik, 63210256 <br> 
--Lej Edvard Košir, 63230155 <br>
+-Žan Luka Hojnik <br>
+-Žan Vincent Božič <br>
+-Andraž Jug  <br>
+-Aljaž Pogačnik <br> 
+-Lej Edvard Košir <br>
 
 **Opis problema** <br>
 V naši analizi, bi radi podrobneje pogledali stanje brezposelnosti v Sloveniji in odvisnost le te od prostih delovnih mest. <br>
