@@ -1,4 +1,4 @@
-**BREZPOSELNOST IN PROSTIH DELOVNIH MEST V SLOVENIJI**
+**ANALIZA BREZPOSELNOST IN PROSTIH DELOVNIH MEST V SLOVENIJI**
 
 Univerza v Ljubljani <br>
 Fakulteta za računalništvo in informatiko <br>
