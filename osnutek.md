@@ -10,11 +10,11 @@ Fakulteta za računalništvo in informatiko <br>
 -Lej Edvard Košir <br>
 
 **Opis problema** <br>
-V naši analizi, bi radi podrobneje pogledali stanje brezposelnosti v Sloveniji in odvisnost le te od prostih delovnih mest. <br>
+V tem projektu, bi radi podrobneje pogledali stanje brezposelnosti v Sloveniji in odvisnost le te od prostih delovnih mest. <br>
 Analizirali bi tudi različna področja, katera nudijo največ prostih delovnih mest.<br>
 
 **Glavne točke/vprašanja:** <br>
-Pri naši analizi so bila najbolj zanimiva naslednja vprašanja:<br>
+Pri pregledu podatkov so se izpostavila naslednja vprašanja:<br>
     •  Koliko ljudi so brezposelni v Sloveniji?<br>
     •  Ali obstaja razlika med brezaposlenimi moškega ali ženskega spola ? <br>
     •  Ali na določenem področju obstaja očitna razlika med številom brezposelnih in prostih delovnih mest ?<br>
