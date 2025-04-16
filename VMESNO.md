@@ -15,7 +15,7 @@ Glavni cilji so bili:
     • Ključne spremenljivke: regija, spol, število brezposelnih (v 1000) in delež v %, četrtletje.
 2. delovnaMestaCetrtletno.PX :<br/>
     • Ključne spremenljivke: število prostih/zasedenih mest po SKD dejavnostih.
-
+celotna koda je napisana v [Jupyter Notebook](https://github.com/KekecD/PR255/blob/main/projekt.ipynb)
 ### 3. Splošni trendi brezposelnosti (Slika 1)
 Podatki kažejo dve kritični obdobji:
 1. Finančna kriza (2008-2013)
