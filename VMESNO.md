@@ -13,7 +13,7 @@ Glavni cilji so bili:
 4. Podatkovna osnova vključuje četrtletne podatke Statističnega urada RS (OPSI), podatki so v formatu pcaxis, kjer imamo besedilne in statistične tipe podatkov, predvsem:
 1. brezposelneCetrtletno.PX :  
     • Ključne spremenljivke: regija, spol, število brezposelnih (v 1000) in delež v %, četrtletje.
-2. delovnaMestaCetrtletno.PX :
+2. delovnaMestaCetrtletno.PX :<br/>
     • Ključne spremenljivke: število prostih/zasedenih mest po SKD dejavnostih.
 
 ### 3. Splošni trendi brezposelnosti (Slika 1)
