@@ -24,14 +24,14 @@ Podatki kažejo dve kritični obdobji:
 2. Pandemija COVID-19 (2020-2022)
     • Manjši šok kot leta 2008 (5.6% maksimalna brezposelnost v 2021)
     • Hitrejše okrevanje do leta 2024
-![Graf brezposelnosti v Sloveniji](https://github.com/KekecD/PR255/tree/main/images/brezposelnostSkupaj.png)
+![Graf brezposelnosti v Sloveniji](main/images/brezposelnostSkupaj.png)
 
 ### 4. Razlike med spoloma (Slika 2)
 Ženske so bile ne-sorazmerno prizadete:
     • Med krizo 2008: ženske imajo v 2013Q1 11.7%, moški pa 10.7% (1% razlike)
     • Po letu 2020: v letu 2021Q1 ženske so imele 6.9% medtem moški 4.6% (2.3% razlike)
 
-![Graf brezposelnosti za spola v Sloveniji](https://github.com/KekecD/PR255/tree/main/images/brezposelnostSpoli.png)
+![Graf brezposelnosti za spola v Sloveniji](main/images/brezposelnostSpoli.png)
     
 ### 5. Regionalne razlike (Slika 3)
 Vzhodna Slovenija kaže trajno slabše rezultate:
@@ -39,7 +39,7 @@ Vzhodna Slovenija kaže trajno slabše rezultate:
 - Glavni vzroki:
     • Manj industrije
     • Manj investicij
-![Graf brezposelnosti za regije v Sloveniji](https://github.com/KekecD/PR255/tree/main/images/brezposelnostRegije.png)
+![Graf brezposelnosti za regije v Sloveniji](main/images/brezposelnostRegije.png)
 
 ### 6. Prosta delovna mesta po dejavnosti (Slika 4)
 Top 5 sektorjev z največ prostih mest:
@@ -49,7 +49,7 @@ Top 5 sektorjev z največ prostih mest:
 4. Druge raznovrstne poslovne dejavnosti
 5. Gostinstvo
 
-![graf z top 5 sektorjev z največ prostih mest](https://github.com/KekecD/PR255/tree/main/images/prostaDelovnaMesta.png)
+![graf z top 5 sektorjev z največ prostih mest](main/images/prostaDelovnaMesta.png)
 
 Posebej zanimivi vzorci:
 - Dejavnosti, ki imajo največ prostih mest so gradbeništvo in predelovanje dejavnosti.
