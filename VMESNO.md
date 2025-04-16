@@ -2,7 +2,7 @@
 
 ### 1. Opis problema
 Raziskava analizira ključne trende na trgu dela v Sloveniji v obdobju 2008-2024,
-ki zajema dve večji gospodarski krizi: finančno krizo (2008-2013) in pandemijo COVID-19 (2020-2022).
+ki zajema dve večji gospodarski krizi: finančno krizo (2008-2013) in pandemijo COVID-19 (2020-2022).<br/>
 Glavni cilji so bili:
 1. Analizirati razlike v brezposelnosti
     • Med spoloma
