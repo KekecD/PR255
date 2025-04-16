@@ -36,9 +36,9 @@ Podatki kažejo dve kritični obdobji:
 ### 5. Regionalne razlike (Slika 3)
 Vzhodna Slovenija kaže trajno slabše rezultate:
 - V kriznih obdobjih največja razlika med vzhodom in zahodom je 3.1% leta 2013 (vzhodna 12.6%, zahodna 9.5%)
-- Glavni vzroki:
-    • Manj industrije
-    • Manj investicij
+- Glavni vzroki:<br/>
+    • Manj industrije<br/>
+    • Manj investicij<br/>
 ![Graf brezposelnosti za regije v Sloveniji](main/images/brezposelnostRegije.png)
 
 ### 6. Prosta delovna mesta po dejavnosti (Slika 4)
