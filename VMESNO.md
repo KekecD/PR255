@@ -9,7 +9,7 @@ Glavni cilji so bili:
     • Med regijama (vhodna in zahodna Slovenija)
 2. Proučiti povezavo med brezposelnostjo in razpoložljivostjo delovnih mest
 
-3. ### 2. Podatki
+### 2. Podatki
 4. Podatkovna osnova vključuje četrtletne podatke Statističnega urada RS (OPSI), podatki so v formatu pcaxis, kjer imamo besedilne in statistične tipe podatkov, predvsem:
 1. brezposelneCetrtletno.PX :  
     • Ključne spremenljivke: regija, spol, število brezposelnih (v 1000) in delež v %, četrtletje.
