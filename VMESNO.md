@@ -27,8 +27,8 @@ Podatki kažejo dve kritični obdobji:
 ![Graf brezposelnosti v Sloveniji](main/images/brezposelnostSkupaj.png)
 
 ### 4. Razlike med spoloma (Slika 2)
-Ženske so bile ne-sorazmerno prizadete:
-    • Med krizo 2008: ženske imajo v 2013Q1 11.7%, moški pa 10.7% (1% razlike)
+Ženske so bile ne-sorazmerno prizadete:<br/>
+    • Med krizo 2008: ženske imajo v 2013Q1 11.7%, moški pa 10.7% (1% razlike)<br/>
     • Po letu 2020: v letu 2021Q1 ženske so imele 6.9% medtem moški 4.6% (2.3% razlike)
 
 ![Graf brezposelnosti za spola v Sloveniji](main/images/brezposelnostSpoli.png)
