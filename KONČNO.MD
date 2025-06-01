@@ -41,7 +41,7 @@ Pandemija je povzročila krajši, a izrazito manjši šok na trgu dela v primerj
 Drugi graf prikazuje, kako so napovedni modeli napovedovali stopnjo brezposelnosti v naslednjem četrtletju v primerjavi z dejanskimi vrednostmi. Med pandemijo COVID-19 so napovedi pogosto precenjevale dejansko stopnjo brezposelnosti, kar je razvidno iz izrazitega odstopanja napovedi navzgor v letu 2020. V obdobjih stabilnosti pa so bile napovedi precej bolj usklajene z dejanskimi podatki, kar kaže na večjo zanesljivost modelov v mirnejših gospodarskih razmerah
 
 ![Graf brezposelnosti v Sloveniji](slike%2FBrezposelnostSkupaj.png)
-![Napoved brezposelnosti](slike%NapovedBrezposelnosti.png)
+![Napoved brezposelnosti](slike%2FNapovedBrezposelnosti.png)
 ### 4. Razlike med spoloma (Slika 2) in trendi skozi krize
 Analiza stopnje brezposelnosti po spolu v Sloveniji med letoma 2008 in 2024 razkriva izrazite razlike, ki so se še posebej pokazale v kriznih obdobjih.<br/>
 
