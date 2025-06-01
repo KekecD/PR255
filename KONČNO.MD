@@ -82,19 +82,41 @@ Najbolj izpostavljene točke:
 ![Graf brezposelnosti za regije v Sloveniji](slike%2FBrezposelniRegije.png)
 
 ### 6. Prosta delovna mesta po dejavnosti (Slika 4)
-Top 5 sektorjev z največ prostih mest:
-1. Predelovalne dejavnosti
-2. Gradbeništvo
-3. Trgovina, vzdrževanje in popravila motornih vozil
-4. Druge raznovrstne poslovne dejavnosti
-5. Gostinstvo
+Graf prikazuje gibanje števila prostih delovnih mest v petih ključnih sektorjih slovenskega gospodarstva med letoma 2008 in 2024:
+
+C Predelovalne dejavnosti
+
+F Gradbeništvo
+
+G Trgovina, vzdrževanje in popravila motornih vozil
+
+N Druge raznovrstne poslovne dejavnosti
+
+I Gostinstvo
+
+Glavni trendi in ugotovitve
+1. Predelovalne dejavnosti in gradbeništvo vodita po številu prostih mest:
+Oba sektorja sta v zadnjem desetletju beležila največ prostih delovnih mest. Predelovalne dejavnosti so še posebej izstopale v obdobju po letu 2016, z izrazitim vrhom okoli leta 2022, ko je število prostih mest preseglo 6.000. Gradbeništvo je prav tako doseglo rekordne vrednosti, pri čemer je opazna značilna volatilnost zaradi sezonskih in gospodarskih vplivov.
+
+2. Trgovina, poslovne dejavnosti in gostinstvo:
+Trgovina, vzdrževanje in popravila motornih vozil ter druge raznovrstne poslovne dejavnosti sta stabilno prispevali k povpraševanju po delovni sili. Gostinstvo pa je po pandemiji COVID-19 doživelo izrazit porast prostih delovnih mest, kar je povezano z odpravo omejitev in ponovnim zagonom turizma ter storitvenih dejavnosti.
+
+3. Vpliv kriznih obdobij:
+
+Finančna kriza (2008–2013): Vsi sektorji so v tem obdobju beležili nizko število prostih delovnih mest, kar je razvidno iz znižanih vrednosti na grafu v označenem sivem območju.
+
+Pandemija COVID-19 (2020–2022): Kljub začetnemu padcu so se nekateri sektorji (predvsem gostinstvo in gradbeništvo) hitro pobrali, kar je razvidno iz strmega porasta prostih mest v obdobju po letu 2021 (modro označeno obdobje).
+
+4. Sektorske posebnosti in izzivi:
+
+ - Gradbeništvo in gostinstvo izstopata po izraziti volatilnosti, ki je posledica sezonskih vplivov, začasnih zaposlitev in občutljivosti na gospodarske cikle.
+
+ - Predelovalne dejavnosti so ključni motor povpraševanja po delovni sili, a se soočajo z izzivi pri iskanju ustrezno usposobljenih kadrov.
+
+ - Povpraševanje po delavcih v trgovini in poslovnih dejavnostih ostaja stabilno, vendar se spreminja glede na gospodarske razmere in tehnološki razvoj.
 
 ![graf z top 5 sektorjev z največ prostih mest](slike%2FProstaDelovnaMestaO.png)
 
-Posebej zanimivi vzorci:
-- Dejavnosti, ki imajo največ prostih mest so gradbeništvo in predelovanje dejavnosti.
-- Gradbeništvo ima izrazito volatilnost. Opažamo periodične skoke in padce, kar je verjetno posledica začasne zaposlitve, sezonskih vplivov in odvisnost od gospodarskih ciklov.
-- Gostinstvo ima tudi visok skok v letu 2022 do 2023, po odpravi COVID-19 ukrepov
 
 ### 7. Korelacija med brezposelnostjo in številom delovnih mest po sektorjih (Slika 5)
 Na grafu so prikazane normalizirane vrednosti zaposlenosti v štirih ključnih sektorjih (predelovalne dejavnosti, promet in skladiščenje, trgovina ter gostinstvo) v primerjavi s stopnjo brezposelnosti (črtkana črna črta) v obdobju 2008–2024. Označena so tudi krizna obdobja: finančna kriza (sivo) in pandemija COVID-19 (modro).
