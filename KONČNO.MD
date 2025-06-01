@@ -10,14 +10,20 @@ Glavni cilji so bili:
 2. Proučiti povezavo med brezposelnostjo in razpoložljivostjo delovnih mest
 
 ### 2. Podatki
-Podatkovna osnova vključuje četrtletne podatke Statističnega urada RS (OPSI), podatki so v formatu pcaxis, kjer imamo besedilne in statistične tipe podatkov, predvsem:
-1. brezposelneCetrtletno.PX :  
-    • Ključne spremenljivke: regija, spol, število brezposelnih (v 1000) in delež v %, četrtletje.
-2. delovnaMestaCetrtletno.PX :<br/>
-    • Ključne spremenljivke: število prostih/zasedenih mest po SKD dejavnostih.
-3. vsi.PX :<br/>
-    • Ključne spremenljivke: Delovno aktivni (v 1000) .
+Podatkovna osnova raziskave temelji na četrtletnih podatkih Statističnega urada Republike Slovenije (SURS), ki zagotavljajo visoko kakovost, transparentnost in primerljivost na nacionalni in mednarodni ravni. Podatki so v formatu PC-Axis (PC-AXIS), ki omogoča strukturirano hranjenje in analizo statističnih in besedilnih podatkov. Za vsak podatkovni nabor so na voljo tudi metapodatki in metodološka pojasnila, kar omogoča natančno razumevanje izvorov in omejitev podatkov.
 
+Glavni podatkovni nabori
+
+1. brezposelneCetrtletno.PX :  
+    • Ključne spremenljivke: regija (vzhodna/zahodna Slovenija), spol (moški/ženske), število brezposelnih (v 1000), delež brezposelnosti v %, četrtletje.
+    • Opis: Podatki zajemajo obdobje od 2008Q1 do 2024Q4. Vključujejo tudi podatke o trajanju brezposelnosti in omogočajo analizo razlik med regijami in spoloma skozi čas.
+
+2. delovnaMestaCetrtletno.PX :<br/>
+    • Ključne spremenljivke: število prostih delovnih mest, število zasedenih delovnih mest, stopnja prostih delovnih mest (%) po SKD dejavnostih (od B do S),             četrtletje.
+    • Opis: Podatki pokrivajo vse glavne sektorje gospodarstva (npr. predelovalne dejavnosti, gradbeništvo, trgovina, gostinstvo, zdravstvo) in omogočajo analizo                povpraševanja po delovni sili po sektorjih.
+3. vsi.PX :<br/>
+    • Ključne spremenljivke: delovno aktivni (v 1000), četrtletje.
+    • Opis: Podatki zajemajo skupno število delovno aktivnih oseb v Sloveniji, kar omogoča analizo trga dela in primerjavo s številom brezposelnih in zasedenih delovnih mest.
    
 
 <br> celotna koda je napisana v [Jupyter Notebook](https://github.com/KekecD/PR255/blob/main/projekt.ipynb)
