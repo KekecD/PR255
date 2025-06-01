@@ -41,7 +41,12 @@ Pandemija je povzročila krajši, a izrazito manjši šok na trgu dela v primerj
 Napovedni modeli smo trenirali na širši množici podatkov, vključno s povprečno plačo, inflacijo, rastjo BDP, aktivnim prebivalstvom in prostimi delovnimi mesti. Med pandemijo so napovedi pogosto precenjevale brezposelnost, medtem ko so bile v stabilnih obdobjih bolj natančne. Kljub temu še vedno ostajajo izzivi pri napovedovanju v času izjemnih gospodarskih šokov.
 
 ![Graf brezposelnosti v Sloveniji](slike%2FBrezposelnostSkupaj.png) graf 1
-![Napoved brezposelnosti](slike%2FNapovedBrezposelnosti.png) graf 2
+
+
+![Napoved brezposelnosti](slike%2FForecast20082013.png) graf 2
+
+![Napoved brezposelnosti](slike%2FForecast20132019.png) graf 3
+
 ### 4. Razlike med spoloma (Slika 2) in trendi skozi krize
 Analiza stopnje brezposelnosti po spolu v Sloveniji med letoma 2008 in 2024 razkriva izrazite razlike, ki so se še posebej pokazale v kriznih obdobjih.<br/>
 
