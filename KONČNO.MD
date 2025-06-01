@@ -15,14 +15,14 @@ Podatkovna osnova raziskave temelji na četrtletnih podatkih Statističnega urad
 Glavni podatkovni nabori
 
 1. brezposelneCetrtletno.PX :  
-    • Ključne spremenljivke: regija (vzhodna/zahodna Slovenija), spol (moški/ženske), število brezposelnih (v 1000), delež brezposelnosti v %, četrtletje.
+    • Ključne spremenljivke: regija (vzhodna/zahodna Slovenija), spol (moški/ženske), število brezposelnih (v 1000), delež brezposelnosti v %, četrtletje.<br/>
     • Opis: Podatki zajemajo obdobje od 2008Q1 do 2024Q4. Vključujejo tudi podatke o trajanju brezposelnosti in omogočajo analizo razlik med regijami in spoloma skozi čas.
 
 2. delovnaMestaCetrtletno.PX :<br/>
-    • Ključne spremenljivke: število prostih delovnih mest, število zasedenih delovnih mest, stopnja prostih delovnih mest (%) po SKD dejavnostih (od B do S),             četrtletje.
+    • Ključne spremenljivke: število prostih delovnih mest, število zasedenih delovnih mest, stopnja prostih delovnih mest (%) po SKD dejavnostih (od B do S),             četrtletje.<br/>
     • Opis: Podatki pokrivajo vse glavne sektorje gospodarstva (npr. predelovalne dejavnosti, gradbeništvo, trgovina, gostinstvo, zdravstvo) in omogočajo analizo                povpraševanja po delovni sili po sektorjih.
 3. vsi.PX :<br/>
-    • Ključne spremenljivke: delovno aktivni (v 1000), četrtletje.
+    • Ključne spremenljivke: delovno aktivni (v 1000), četrtletje.<br/>
     • Opis: Podatki zajemajo skupno število delovno aktivnih oseb v Sloveniji, kar omogoča analizo trga dela in primerjavo s številom brezposelnih in zasedenih delovnih mest.
    
 
