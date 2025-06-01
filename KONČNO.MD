@@ -114,15 +114,19 @@ Predelovalne dejavnosti, promet in skladiščenje ter trgovina so ključni sekto
 ![korelacija.png](slike%2Fkorelacija.png)
 
 ### 7. Zaključki
-Glavni vzorci kažejo:
+Analiza podatkov o brezposelnosti in zaposlenosti v Sloveniji med letoma 2008 in 2024 je razkrila več ključnih vzorcev, ki so pomembni za razumevanje dinamike trga dela, zlasti v času gospodarskih šokov.
 
-[//]: # (1. Močno povezanost med gospodarskimi šoki in brezposelnostjo)
+Neposredni vpliv gospodarskih šokov na brezposelnost:
+V vsaki večji krizi – finančni krizi (2008–2013) in pandemiji COVID-19 (2020–2022) – je stopnja brezposelnosti v Sloveniji močno narasla. To potrjuje, da so gospodarski šoki ključni dejavniki za spremembe na trgu dela in da imajo neposredne posledice za zaposlenost in socialno varnost.
 
-[//]: # (2. Trajne regionalne neenakosti)
+Spolne razlike:
+Ženske so v povprečju imele višjo stopnjo brezposelnosti kot moški. Med pandemijo COVID-19 je bila razlika še bolj izrazita, saj so bile ženske zaradi večje zastopanosti v ogroženih sektorjih (npr. storitve, gostinstvo) znatno bolj prizadete.
 
-[//]: # (3. Sektorske posebnosti)
-1. Gospodarski šoki in krize imajo neposredne posledice pri brezposelnosti. V vsaki krizi nivo brezposelnosti naraste.
-2. Ženske imajo v povprečju večjo brezposelnost. Kovid kriza je bolj povečala število brezposelnih žensk kot moških.
-3. Vzhodna Slovenija ima po absolutnem številu več brezposelnih kot zahodna Slovenija
-4. Ko raste brezposelnost so najbolj na udaru predelovalne dejavnosti, promet in skladiščenje, trgovina, vzdrževanje in popravila motornih vozil in gostinstno.
-5. Gostinstvo je občtutilo največji šok med Kovid epidemijo.
+Regionalne razlike:
+Vzhodna Slovenija je v vseh analiziranih obdobjih imela po absolutnem številu več brezposelnih kot zahodna Slovenija. To kaže na trajne strukturne razlike med regijama, povezane z manj razvito industrijo, nižjo stopnjo investicij in manj priložnosti za zaposlitev.
+
+Sektorski vplivi:
+Ko brezposelnost narašča, so najbolj na udaru predelovalne dejavnosti, promet in skladiščenje, trgovina, vzdrževanje in popravila motornih vozil ter gostinstvo. Ti sektorji so bistveno občutljivi na gospodarske cikle in hitro reagirajo na spremembe povpraševanja.
+
+Gostinstvo kot najbolj ranljiv sektor med pandemijo:
+Gostinstvo je med epidemijo COVID-19 doživelo največji šok. Zaprtje lokalov in omejitve javnega življenja so povzročile izjemen upad zaposlenosti, vendar se je sektor po odpravi ukrepov hitro opomogel, kar kaže na njegovo prilagodljivost in pomen turizma za slovensko gospodarstvo.
