@@ -38,7 +38,7 @@ V obdobju finančne krize je stopnja brezposelnosti vztrajno naraščala in dose
 Pandemija je povzročila krajši, a izrazito manjši šok na trgu dela v primerjavi s finančno krizo. Najvišja stopnja brezposelnosti je bila dosežena leta 2021 (5,6 %), okrevanje pa je bilo bistveno hitrejše, saj se je stopnja brezposelnosti že do leta 2024 vrnila na predkrizno raven
 
 3. Napovedi in primerjava z dejanskimi podatki:
-Drugi graf prikazuje, kako so napovedni modeli napovedovali stopnjo brezposelnosti v naslednjem četrtletju v primerjavi z dejanskimi vrednostmi. Med pandemijo COVID-19 so napovedi pogosto precenjevale dejansko stopnjo brezposelnosti, kar je razvidno iz izrazitega odstopanja napovedi navzgor v letu 2020. V obdobjih stabilnosti pa so bile napovedi precej bolj usklajene z dejanskimi podatki, kar kaže na večjo zanesljivost modelov v mirnejših gospodarskih razmerah
+Napovedni modeli smo trenirali na širši množici podatkov, vključno s povprečno plačo, inflacijo, rastjo BDP, aktivnim prebivalstvom in prostimi delovnimi mesti. Med pandemijo so napovedi pogosto precenjevale brezposelnost, medtem ko so bile v stabilnih obdobjih bolj natančne. Kljub temu še vedno ostajajo izzivi pri napovedovanju v času izjemnih gospodarskih šokov.
 
 ![Graf brezposelnosti v Sloveniji](slike%2FBrezposelnostSkupaj.png) graf 1
 ![Napoved brezposelnosti](slike%2FNapovedBrezposelnosti.png) graf 2
