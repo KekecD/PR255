@@ -62,7 +62,7 @@ Po letu 2021 se razlike med spoloma nekoliko zmanjšujejo, v posameznih četrtle
 ![Graf brezposelnosti za spola v Sloveniji](slike%2FBrezposelniSpoli.png)
     
 ### 5. Regionalne razlike (Slika 3) – trendi brezposelnosti po regijah
-Graf prikazuje izrazite in trajne razlike v brezposelnosti med vzhodno in zahodno Slovenijo v obdobju 2008–2024. V vseh obdobjih, še posebej pa med gospodarskimi krizami, je bila stopnja brezposelnosti v vzhodni Sloveniji bistveno višja kot v zahodni.
+Izrazite in trajne razlike v brezposelnosti med vzhodno in zahodno Slovenijo v obdobju 2008–2024 so bile jasno vidne. V vseh obdobjih, še posebej med gospodarskimi krizami, je bila stopnja brezposelnosti v vzhodni Sloveniji bistveno višja kot v zahodni.
 
 1. Finančna kriza (2008–2013):
 V času finančne krize se je razlika med regijama še povečala. Največja razlika je bila dosežena leta 2013, ko je bila brezposelnost v vzhodni Sloveniji 12,6 %, v zahodni pa 9,5 %. To pomeni razliko 3,1 odstotne točke v škodo vzhodne Slovenije. Na grafu je to obdobje jasno označeno s sivo barvo, pri čemer modra krivulja (vzhod) vztrajno vodi nad oranžno (zahod).
@@ -82,7 +82,7 @@ Najbolj izpostavljene točke:
 ![Graf brezposelnosti za regije v Sloveniji](slike%2FBrezposelniRegije.png)
 
 ### 6. Prosta delovna mesta po dejavnosti (Slika 4)
-Graf prikazuje gibanje števila prostih delovnih mest v petih ključnih sektorjih slovenskega gospodarstva med letoma 2008 in 2024:
+Gibanje števila prostih delovnih mest v petih ključnih sektorjih slovenskega gospodarstva med letoma 2008 in 2024. Največ prostih mest so v tem obdobju beležile predelovalne dejavnosti, gradbeništvo, trgovina, raznovrstne poslovne dejavnosti in gostinstvo, pri čemer so sektorji izkazovali močno nihanje v času kriz in hitrejše okrevanje po njihovem koncu
 
 C Predelovalne dejavnosti
 
@@ -120,10 +120,6 @@ Pandemija COVID-19 (2020–2022): Kljub začetnemu padcu so se nekateri sektorji
 
 ### 7. Korelacija med brezposelnostjo in številom delovnih mest po sektorjih (Slika 5)
 Na grafu so prikazane normalizirane vrednosti zaposlenosti v štirih ključnih sektorjih (predelovalne dejavnosti, promet in skladiščenje, trgovina ter gostinstvo) v primerjavi s stopnjo brezposelnosti (črtkana črna črta) v obdobju 2008–2024. Označena so tudi krizna obdobja: finančna kriza (sivo) in pandemija COVID-19 (modro).
-1. Predelovalne dejavnosti
-2. Promet in skladiščenje
-3. Trgovina, vzdrževanje in popravila motornih vozil
-4. Gostinstvo
 
 Glavne ugotovitve:
 Močna negativna korelacija:
