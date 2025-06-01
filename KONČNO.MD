@@ -30,14 +30,14 @@ Podatki kažejo dve kritični obdobji:
     • Manjši šok kot leta 2008 (5.6% maksimalna brezposelnost v 2021)
     • Hitrejše okrevanje do leta 2024
 
-![Graf brezposelnosti v Sloveniji](images%2FBrezposelnostSkupaj.png)
+![Graf brezposelnosti v Sloveniji](slike%2FBrezposelnostSkupaj.png)
 
 ### 4. Razlike med spoloma (Slika 2)
 Ženske so bile ne-sorazmerno prizadete:<br/>
     • Med krizo 2008: ženske imajo v 2013Q1 11.7%, moški pa 10.7% (1% razlike)<br/>
     • Po letu 2020: v letu 2021Q1 ženske so imele 6.9% medtem moški 4.6% (2.3% razlike)<br>
 Vidi se torej, da po krizi 2008 imajo ženske večjo brezposelnost. Od 2021 naprej pa so tudi moški kdaj imeli večjo.
-![Graf brezposelnosti za spola v Sloveniji](images%2FBrezposelniSpoli.png)
+![Graf brezposelnosti za spola v Sloveniji](slike%2FBrezposelniSpoli.png)
     
 ### 5. Regionalne razlike (Slika 3)
 Vzhodna Slovenija kaže trajno slabše rezultate:
@@ -45,7 +45,7 @@ Vzhodna Slovenija kaže trajno slabše rezultate:
 - Glavni vzroki:<br/>
     • Manj industrije<br/>
     • Manj investicij<br/>
-![Graf brezposelnosti za regije v Sloveniji](images%2FBrezposelniRegije.png)
+![Graf brezposelnosti za regije v Sloveniji](slike%2FBrezposelniRegije.png)
 
 ### 6. Prosta delovna mesta po dejavnosti (Slika 4)
 Top 5 sektorjev z največ prostih mest:
@@ -55,7 +55,7 @@ Top 5 sektorjev z največ prostih mest:
 4. Druge raznovrstne poslovne dejavnosti
 5. Gostinstvo
 
-![graf z top 5 sektorjev z največ prostih mest](images%2FProstaDelovnaMestaO.png)
+![graf z top 5 sektorjev z največ prostih mest](slike%2FProstaDelovnaMestaO.png)
 
 Posebej zanimivi vzorci:
 - Dejavnosti, ki imajo največ prostih mest so gradbeništvo in predelovanje dejavnosti.
@@ -71,7 +71,7 @@ Zanimalo nas je tudi kakšne so korelacije med brezposelnostjo in številom delo
 
 Iz grafa se vidi, da ko brezposelnost raste, delovna mesta v zgornjih sektorjih upadajo. Po koncu gospodarkse krize začnejo ponovno rasti. Zelo zanimiv je podatek za gostinstvo med COVID-19 krizo. Na grafu se vidi kako strmo vpade število delovnih mest v gostinstvu med karaneteno, kot posledica nezmožnosti obratovanja gostilen in restevracij. Že pred koncem krize pa hitro število delovnih mest skoči nazaj. 
 
-![korelacija.png](images%2Fkorelacija.png)
+![korelacija.png](slike%2Fkorelacija.png)
 
 ### 7. Zaključki
 Glavni vzorci kažejo:
