@@ -56,12 +56,23 @@ Po letu 2021 se razlike med spoloma nekoliko zmanjšujejo, v posameznih četrtle
 
 ![Graf brezposelnosti za spola v Sloveniji](slike%2FBrezposelniSpoli.png)
     
-### 5. Regionalne razlike (Slika 3)
-Vzhodna Slovenija kaže trajno slabše rezultate:
-- V kriznih obdobjih največja razlika med vzhodom in zahodom je 3.1% leta 2013 (vzhodna 12.6%, zahodna 9.5%)
-- Glavni vzroki:<br/>
-    • Manj industrije<br/>
-    • Manj investicij<br/>
+### 5. Regionalne razlike (Slika 3) – trendi brezposelnosti po regijah
+Graf prikazuje izrazite in trajne razlike v brezposelnosti med vzhodno in zahodno Slovenijo v obdobju 2008–2024. V vseh obdobjih, še posebej pa med gospodarskimi krizami, je bila stopnja brezposelnosti v vzhodni Sloveniji bistveno višja kot v zahodni.
+
+1. Finančna kriza (2008–2013):
+V času finančne krize se je razlika med regijama še povečala. Največja razlika je bila dosežena leta 2013, ko je bila brezposelnost v vzhodni Sloveniji 12,6 %, v zahodni pa 9,5 %. To pomeni razliko 3,1 odstotne točke v škodo vzhodne Slovenije. Na grafu je to obdobje jasno označeno s sivo barvo, pri čemer modra krivulja (vzhod) vztrajno vodi nad oranžno (zahod).
+
+2. Pandemija COVID-19 (2020–2022):
+Tudi v času pandemije COVID-19 (označeno z modro barvo) je vzhodna Slovenija ohranila višjo stopnjo brezposelnosti, čeprav sta se obe regiji po letu 2022 začeli približevati zgodovinsko nizkim vrednostim.
+
+3. Strukturni vzroki:
+Glavni razlogi za trajno slabše rezultate vzhodne Slovenije so manj razvita industrijska struktura, nižja raven investicij in manj priložnosti za zaposlitev v primerjavi z bolj gospodarsko razvitim zahodom države.
+
+Najbolj izpostavljene točke:
+
+ • Vzhodna Slovenija je v obeh kriznih obdobjih beležila izrazite skoke brezposelnosti, medtem ko je bila zahodna regija bolj odporna na gospodarske šoke.
+
+ • Po letu 2016 se razlika nekoliko zmanjšuje, vendar vzhodna Slovenija tudi v najnovejšem obdobju ostaja bolj ranljiva na trgu dela.
 ![Graf brezposelnosti za regije v Sloveniji](slike%2FBrezposelniRegije.png)
 
 ### 6. Prosta delovna mesta po dejavnosti (Slika 4)
