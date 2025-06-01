@@ -92,13 +92,24 @@ Posebej zanimivi vzorci:
 - Gostinstvo ima tudi visok skok v letu 2022 do 2023, po odpravi COVID-19 ukrepov
 
 ### 7. Korelacija med brezposelnostjo in številom delovnih mest po sektorjih (Slika 5)
-Zanimalo nas je tudi kakšne so korelacije med brezposelnostjo in številom delovnih mest po sektorjih. Sektorji, kateri najbolj obratno sledijo brezposelnosti(ko brezposelnost raste delovna mesta padajo) so:
+Na grafu so prikazane normalizirane vrednosti zaposlenosti v štirih ključnih sektorjih (predelovalne dejavnosti, promet in skladiščenje, trgovina ter gostinstvo) v primerjavi s stopnjo brezposelnosti (črtkana črna črta) v obdobju 2008–2024. Označena so tudi krizna obdobja: finančna kriza (sivo) in pandemija COVID-19 (modro).
 1. Predelovalne dejavnosti
 2. Promet in skladiščenje
 3. Trgovina, vzdrževanje in popravila motornih vozil
 4. Gostinstvo
 
-Iz grafa se vidi, da ko brezposelnost raste, delovna mesta v zgornjih sektorjih upadajo. Po koncu gospodarkse krize začnejo ponovno rasti. Zelo zanimiv je podatek za gostinstvo med COVID-19 krizo. Na grafu se vidi kako strmo vpade število delovnih mest v gostinstvu med karaneteno, kot posledica nezmožnosti obratovanja gostilen in restevracij. Že pred koncem krize pa hitro število delovnih mest skoči nazaj. 
+Glavne ugotovitve:
+Močna negativna korelacija:
+Vsi analizirani sektorji izkazujejo izrazito obratno gibanje glede na brezposelnost. Ko stopnja brezposelnosti narašča (črtkana črta gre navzgor), število zaposlenih v teh sektorjih upada – najbolj izrazito v času finančne krize 2008–2013, ko so predelovalne dejavnosti, promet, trgovina in gostinstvo dosegli najnižje vrednosti zaposlenosti.
+
+Obdobje okrevanja:
+Po koncu gospodarske krize (po letu 2014) se v vseh sektorjih začne postopno okrevanje – število zaposlenih ponovno raste, medtem ko stopnja brezposelnosti vztrajno pada. Ta trend je viden vse do izbruha pandemije COVID-19.
+
+Poseben primer gostinstva med COVID-19:
+Med pandemijo COVID-19 (2020–2022) je gostinstvo doživelo izjemno strm upad zaposlenosti, kar je neposredna posledica zaprtja gostinskih lokalov in omejitev javnega življenja. Že pred koncem pandemije pa se število zaposlenih v gostinstvu hitro pobere, kar kaže na občutljivost sektorja na sproščanje ukrepov in povratek povpraševanja.
+
+Sektorske posebnosti:
+Predelovalne dejavnosti, promet in skladiščenje ter trgovina so ključni sektorji, ki najbolj obratno sledijo trendom brezposelnosti. Njihova zaposlenost je zelo odvisna od splošnega gospodarskega cikla in povpraševanja, kar potrjuje tako domača kot evropska literatura
 
 ![korelacija.png](slike%2Fkorelacija.png)
 
