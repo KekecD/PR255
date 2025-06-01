@@ -27,17 +27,21 @@ Glavni podatkovni nabori
    
 
 <br> celotna koda je napisana v [Jupyter Notebook](https://github.com/KekecD/PR255/blob/main/projekt.ipynb)
-### 3. Splošni trendi brezposelnosti (Slika 1)
-Podatki kažejo dve kritični obdobji:
+### 3. Splošni trendi brezposelnosti in napovedi v kriznih obdobjih
+
+Analiza splošnih trendov brezposelnosti v Sloveniji med letoma 2008 in 2024 jasno izpostavlja dve ključni krizni obdobji, kar je razvidno iz spodnjih grafov.
+
 1. Finančna kriza (2008-2013)
-    • vrhunec brezposelnosti v letih 2013-2014 (11.1% v letu 2013, 10.8% za 2014)
-    • Počasno okrevanje do leta 2019
+V obdobju finančne krize je stopnja brezposelnosti vztrajno naraščala in dosegla vrhunec v letih 2013–2014, ko je dosegla 11,1 % v letu 2013 in 10,8 % v letu 2014. Sledilo je počasno okrevanje, ki je trajalo vse do leta 2019. Ta trend je lepo prikazan na grafu, kjer je obdobje krize posebej označeno, krivulja pa jasno izpostavlja dolgotrajno visoko brezposelnost in počasno zniževanje po letu 2014
+
 2. Pandemija COVID-19 (2020-2022)
-    • Manjši šok kot leta 2008 (5.6% maksimalna brezposelnost v 2021)
-    • Hitrejše okrevanje do leta 2024
+Pandemija je povzročila krajši, a izrazito manjši šok na trgu dela v primerjavi s finančno krizo. Najvišja stopnja brezposelnosti je bila dosežena leta 2021 (5,6 %), okrevanje pa je bilo bistveno hitrejše, saj se je stopnja brezposelnosti že do leta 2024 vrnila na predkrizno raven
+
+3. Napovedi in primerjava z dejanskimi podatki:
+Drugi graf prikazuje, kako so napovedni modeli napovedovali stopnjo brezposelnosti v naslednjem četrtletju v primerjavi z dejanskimi vrednostmi. Med pandemijo COVID-19 so napovedi pogosto precenjevale dejansko stopnjo brezposelnosti, kar je razvidno iz izrazitega odstopanja napovedi navzgor v letu 2020. V obdobjih stabilnosti pa so bile napovedi precej bolj usklajene z dejanskimi podatki, kar kaže na večjo zanesljivost modelov v mirnejših gospodarskih razmerah
 
 ![Graf brezposelnosti v Sloveniji](slike%2FBrezposelnostSkupaj.png)
-
+![Graf brezposelnosti v Sloveniji](slike%NapovedBrezposelnosti.png)
 ### 4. Razlike med spoloma (Slika 2)
 Ženske so bile ne-sorazmerno prizadete:<br/>
     • Med krizo 2008: ženske imajo v 2013Q1 11.7%, moški pa 10.7% (1% razlike)<br/>
