@@ -1,12 +1,11 @@
 ## Brezposelnost in Prosta Delovna Mesta v Sloveniji (2008-2024)
 
 ### 1. Opis problema
-Raziskava analizira ključne trende na trgu dela v Sloveniji v obdobju 2008-2024,
-ki zajema dve večji gospodarski krizi: finančno krizo (2008-2013) in pandemijo COVID-19 (2020-2022).<br/>
+Raziskava se osredotoča na analizo ključnih trendov na trgu dela v Sloveniji v obdobju 2008–2024, pri čemer podrobno preučuje vpliv dveh večjih gospodarskih kriz: globalne finančne krize (2008–2013) ter pandemije COVID-19 (2020–2022). Obe obdobji sta pomembno zaznamovali gibanje brezposelnosti in razpoložljivost delovnih mest, kar se odraža v strukturnih spremembah na trgu dela, dolgotrajnem okrevanju in spreminjanju povpraševanja po delovni sili.<br/>
 Glavni cilji so bili:
 1. Analizirati razlike v brezposelnosti
-    • Med spoloma
-    • Med regijama (vhodna in zahodna Slovenija)
+    -med spoloma, kjer nas zanima, kako so gospodarske krize različno vplivale na ženske in moške skozi celotno obdobje
+    -med regijama (vzhodna in zahodna Slovenija), s poudarkom na trajnih regionalnih razlikah in njihovih vzrokih
 2. Proučiti povezavo med brezposelnostjo in razpoložljivostjo delovnih mest
 
 ### 2. Podatki
@@ -15,7 +14,8 @@ Glavni cilji so bili:
     • Ključne spremenljivke: regija, spol, število brezposelnih (v 1000) in delež v %, četrtletje.
 2. delovnaMestaCetrtletno.PX :<br/>
     • Ključne spremenljivke: število prostih/zasedenih mest po SKD dejavnostih.
-
+3. Analizirati napovedovanje stopnje brezposelnosti na podlagi preteklih podatkov
+4. 
 <br> celotna koda je napisana v [Jupyter Notebook](https://github.com/KekecD/PR255/blob/main/projekt.ipynb)
 ### 3. Splošni trendi brezposelnosti (Slika 1)
 Podatki kažejo dve kritični obdobji:
