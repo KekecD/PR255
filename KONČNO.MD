@@ -73,6 +73,7 @@ Najbolj izpostavljene točke:
  • Vzhodna Slovenija je v obeh kriznih obdobjih beležila izrazite skoke brezposelnosti, medtem ko je bila zahodna regija bolj odporna na gospodarske šoke.
 
  • Po letu 2016 se razlika nekoliko zmanjšuje, vendar vzhodna Slovenija tudi v najnovejšem obdobju ostaja bolj ranljiva na trgu dela.
+
 ![Graf brezposelnosti za regije v Sloveniji](slike%2FBrezposelniRegije.png)
 
 ### 6. Prosta delovna mesta po dejavnosti (Slika 4)
