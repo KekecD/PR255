@@ -42,11 +42,18 @@ Drugi graf prikazuje, kako so napovedni modeli napovedovali stopnjo brezposelnos
 
 ![Graf brezposelnosti v Sloveniji](slike%2FBrezposelnostSkupaj.png)
 ![Napoved brezposelnosti](slike%NapovedBrezposelnosti.png)
-### 4. Razlike med spoloma (Slika 2)
-Ženske so bile ne-sorazmerno prizadete:<br/>
-    • Med krizo 2008: ženske imajo v 2013Q1 11.7%, moški pa 10.7% (1% razlike)<br/>
-    • Po letu 2020: v letu 2021Q1 ženske so imele 6.9% medtem moški 4.6% (2.3% razlike)<br>
-Vidi se torej, da po krizi 2008 imajo ženske večjo brezposelnost. Od 2021 naprej pa so tudi moški kdaj imeli večjo.
+### 4. Razlike med spoloma (Slika 2) in trendi skozi krize
+Analiza stopnje brezposelnosti po spolu v Sloveniji med letoma 2008 in 2024 razkriva izrazite razlike, ki so se še posebej pokazale v kriznih obdobjih.<br/>
+
+Finančna kriza (2008–2013):
+V času finančne krize so bile ženske nesorazmerno bolj prizadete. Leta 2013 je stopnja brezposelnosti pri ženskah dosegla vrh pri 11,7 %, pri moških pa 10,7 %, kar pomeni 1 odstotno točko razlike v škodo žensk. Ta razlika je bila posledica večje izpostavljenosti žensk v sektorjih, ki so jih kriza najmočneje prizadela, ter večje zastopanosti v negotovih oblikah zaposlitve.
+
+Obdobje po krizi in pandemija COVID-19 (2020–2022):
+Po letu 2014 se je brezposelnost postopno zmanjševala pri obeh spolih, vendar so ženske še naprej imele nekoliko višje stopnje brezposelnosti. Med pandemijo COVID-19 je razlika še narasla – v prvem četrtletju 2021 je bila brezposelnost pri ženskah 6,9 %, pri moških pa 4,6 %, kar je 2,3 odstotne točke razlike v škodo žensk. Razlogi za to so bili predvsem v večji zastopanosti žensk v storitvenih dejavnostih in na delovnih mestih, ki so bila v času pandemije bolj ogrožena.
+
+Najnovejši trendi:
+Po letu 2021 se razlike med spoloma nekoliko zmanjšujejo, v posameznih četrtletjih pa so moški tudi presegli ženske v stopnji brezposelnosti, kar kaže na spreminjajočo se strukturo trga dela in prilagajanje gospodarstva novim razmeram. Do konca leta 2024 je stopnja brezposelnosti pri ženskah padla na okoli 4 %, kar je najnižja vrednost v zadnjem desetletju
+
 ![Graf brezposelnosti za spola v Sloveniji](slike%2FBrezposelniSpoli.png)
     
 ### 5. Regionalne razlike (Slika 3)
